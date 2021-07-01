@@ -8,6 +8,7 @@
     <artifactId>My-java</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+
     <build>
         <plugins>
             <plugin>
@@ -20,8 +21,10 @@
             </plugin>
         </plugins>
     </build>
+
     <modules>
         <module>consistent-hashing</module>
+        <module>leetcode</module>
     </modules>
 
 
